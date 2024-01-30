@@ -1,6 +1,6 @@
 
 # Projeto web services com Spring Boot e JPA / Hibernate
-# Projeto criado para estudo de mapeamento objeto relacional com JPA e Hibernate no Spring. Desenvolvimento de aplicação para tabelas de produtos e pedidos para clientes.
+ Projeto criado para estudo de mapeamento objeto relacional com JPA e Hibernate no Spring. Desenvolvimento de aplicação para tabelas de produtos e pedidos para clientes.
 
 ![image](https://github.com/gcost4/workshop-springboot3-jpa/assets/116121823/2f193e42-fa37-4e63-b4a9-9893a38cf698)
 
