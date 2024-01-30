@@ -4,7 +4,7 @@
 
 ![image](https://github.com/gcost4/workshop-springboot3-jpa/assets/116121823/2f193e42-fa37-4e63-b4a9-9893a38cf698)
 
-#O que vamos aprender 
+# O que vamos aprender 
 - Criar projeto Spring Boot Java
 - Implementar modelo de domínio
 - Estruturar camadas lógicas: resource, service, repository
@@ -13,7 +13,7 @@
 - CRUD - Create, Retrieve, Update, Delete
 - Tratamento de exceções
 
-#Tecnologias e ferramentas utilizadas
+# Tecnologias e ferramentas utilizadas
 - Java 17
 - Spring Boot
 - Spring Web
